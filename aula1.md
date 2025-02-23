@@ -4,7 +4,7 @@ Breve apresentação
 
 Apresentou também as percentagens da avaliação-
 
-`#109010` 20% </span> - **Trabalhos na aula**
++20% </span> - **Trabalhos na aula**
 
 <span style="color: green"> 40% </span> - **Protfólio**</p>
 <span style="color: green"> 40% </span> - **Mini projetos** (PS: importante fazer aprensentação, se não fizermos é considerar como não entregue que dá o valor 0)</p>
