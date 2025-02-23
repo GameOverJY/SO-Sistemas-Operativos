@@ -9,7 +9,7 @@
 
 # Aulas
 
-<p><b>Aula 1 [https://github.com/GameOverJY/SO-Sistemas-Operativos/blob/main/aula1.md]</p>
+**Aula 1 - [21/02/2025](https://github.com/GameOverJY/SO-Sistemas-Operativos/blob/main/aula1.md)**<p>
 <p>Aula 2</p>
 <p>Aula 3</p>
 <p>Aula 4</p>
