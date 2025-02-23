@@ -23,6 +23,7 @@ A disciplina de **Sistemas Operativos** tem como objetivo ensinar os fundamentos
 - **Comparação entre Sistemas Operativos**: Windows, Linux e macOS.  
 
 Essa disciplina é essencial para compreender como os computadores funcionam internamente e como otimizar seu desempenho.  
+
 ---
 
 ## 📌 Aulas  
