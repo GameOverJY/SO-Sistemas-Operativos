@@ -5,7 +5,7 @@ Foi nos apresentado o segundo trabalho sobre distribuições.
 - Ubuntu   
 - Debian   
 - Pop!_OS   
-- ZorinOS (Meu Trabalho)    
+- ZorinOS **(Meu Trabalho)**    
 - Fedora   
 - Arch Linux   
 - Mint   
