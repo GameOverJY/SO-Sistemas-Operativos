@@ -1,6 +1,5 @@
 #Resumo da aula- 28/02/2025
 
-
 Apresentações da tarefa 1, que foi fornecido na semana passada sobre Sistemas de Operação
 
 ---
