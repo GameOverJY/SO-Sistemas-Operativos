@@ -8,5 +8,3 @@ Como faltei na semana passada, o professor deu outra oportunidade para apresenta
 
 ✔️ Ser mais **claro** na explicação do trabalho.  
 ✔️ **Evitar** ler diretamente o que está escrito.  
-
----
