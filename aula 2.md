@@ -23,9 +23,9 @@ Foi-nos apresentado o **segundo trabalho** sobre **distribuições Linux**, com 
 
 ## 📍 Minha Apresentação
 ### ✨ Melhorias sugeridas:
-✅ **Incluir mais imagens** para melhor compreensão.
-✅ **Melhorar a organização do texto** e a distribuição do espaço.
-✅ **Corrigir a seção de referências**, utilizar "Links" em vez de "Biografia".
-✅ **Utilizar tamanho mínimo da fonte de 20cm**, evitando fontes menores.
+- ✅ **Incluir mais imagens** para melhor compreensão.
+- ✅ **Melhorar a organização do texto** e a distribuição do espaço.
+- ✅ **Corrigir a seção de referências**, utilizar "Links" em vez de "Biografia".
+- ✅ **Utilizar tamanho mínimo da fonte de 20cm**, evitando fontes menores.
 
 📌 **Objetivo:** Aprimorar a apresentação para torná-la mais visual e bem estruturada.
