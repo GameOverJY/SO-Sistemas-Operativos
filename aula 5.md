@@ -1,20 +1,31 @@
-# Resumo
+# 📌 Resumo
+
+O professor atribuiu o **Trabalho Prático 3**, que aborda a **utilização do Unix/Linux via linha de comando**.
 
 ---
 
-O professor atribuiu o **Trabalho Prático 3**, que aborda a **utilização do Unix/Linux via linha de comando**.  
+## 🎯 Objetivos
 
-## Objetivos  
-(Usando os comandos `man` e `--help`, podemos obter mais informações sobre cada comando.)  
+Para aprofundar o conhecimento no ambiente Unix/Linux, utilizaremos os comandos `man` e `--help` para obter mais informações sobre cada comando.
 
-- **Explorar**  
-- **Operações Essenciais**  
-  - Manipulação  
-  - Gestão de ficheiros  
-  - Extração de informação  
-  - Redirecionamento  
-  - Gestão da máquina  
-  - Utilizadores  
-  - Configuração do ambiente de trabalho  
+Os principais objetivos do trabalho incluem:
 
-O trabalho deve ser entregue em **formato de relatório** até o **dia 4 de abril**.  
+### 🔍 Exploração e Operações Essenciais  
+- **Manipulação de Ficheiros**  
+- **Gestão de Ficheiros e Diretórios**  
+- **Extração de Informação**  
+- **Redirecionamento e Pipes**  
+- **Gestão da Máquina**  
+- **Gestão de Utilizadores**  
+- **Configuração do Ambiente de Trabalho**  
+
+---
+
+## 📅 Entrega
+
+📢 O relatório deve ser entregue em **formato de relatório** até o **dia 4 de abril**.
+
+---
+
+Isso melhora a legibilidade e organização, tornando o conteúdo mais agradável e fácil de seguir. 🚀  
+Se precisar de mais ajustes, me avise! 😊
