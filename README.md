@@ -42,17 +42,16 @@ Essa disciplina é essencial para compreender como os computadores funcionam int
 
 #### 📅 **Abril**   
 **Aula 7 - 04/04/2025** *(Aguardando link)*  
-**Aula 8 - 11/04/2025** *(Aguardando link)*  
-**Aula 9 - 18/04/2025** *(Aguardando link)*  
-**Aula 10 - 25/04/2025** *(Aguardando link)*  
+**Aula 8 - 18/04/2025** *(Aguardando link)*  
+**Aula 9 - 25/04/2025** *(Aguardando link)*  
 
 #### 📅 **Maio**  
-**Aula 11 - 02/05/2025** *(Aguardando link)*  
-**Aula 12 - 09/05/2025** *(Aguardando link)*  
-**Aula 13 - 16/05/2025** *(Aguardando link)*  
-**Aula 14 - 23/05/2025** *(Aguardando link)*  
-**Aula 15 - 30/05/2025** *(Aguardando link)*  
+**Aula 10 - 02/05/2025** *(Aguardando link)*  
+**Aula 11 - 09/05/2025** *(Aguardando link)*  
+**Aula 12 - 16/05/2025** *(Aguardando link)*  
+**Aula 13 - 23/05/2025** *(Aguardando link)*  
+**Aula 14 - 30/05/2025** *(Aguardando link)*  
 
 #### 📅 **Junho**  
-**Aula 16 - 06/06/2025** *(Aguardando link)*  
-**Aula 17 - 13/06/2025** *(Aguardando link)*  
+**Aula 15 - 06/06/2025** *(Aguardando link)*  
+**Aula 16 - 13/06/2025** *(Aguardando link)*  
