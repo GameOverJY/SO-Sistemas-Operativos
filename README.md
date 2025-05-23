@@ -44,12 +44,12 @@ Essa disciplina é essencial para compreender como os computadores funcionam int
 **Aula 7 - 04/04/2025** *(Aguardando link)*  
 
 #### 📅 **Maio**  
-**Aula 8 - 02/05/2025 (https://github.com/GameOverJY/SO-Sistemas-Operativos/blob/main/aula8.md)**  
+**Aula 8 - [02/05/2025] (https://github.com/GameOverJY/SO-Sistemas-Operativos/blob/main/aula8.md)**  
 **Aula 9 - 09/05/2025** *(Aguardando link)*  
 **Aula 10 - 16/05/2025** *(Aguardando link)*  
 **Aula 11 - 23/05/2025** *(Aguardando link)*  
-**Aula 12 - 30/05/2025** *(Aguardando link)*  
 
 #### 📅 **Junho**  
-**Aula 13 - 06/06/2025** *(Aguardando link)*  
-**Aula 14 - 13/06/2025** *(Aguardando link)*  
+**Aula 12 - 06/06/2025** *(Aguardando link)*  
+**Aula 13 - 13/06/2025** *(Aguardando link)*  
+**Aula 14 - 17/06/2025** *(Aguardando link)*  
