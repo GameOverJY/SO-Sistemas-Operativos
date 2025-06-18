@@ -45,9 +45,13 @@ Essa disciplina é essencial para compreender como os computadores funcionam int
 
 #### 📅 **Maio**  
 **Aula 8 - [02/05/2025](https://github.com/GameOverJY/SO-Sistemas-Operativos/blob/main/aula8.md)**  
-**Aula 9 - [09/05/2025](https://github.com/GameOverJY/SO-Sistemas-Operativos/blob/main/aula9.md)**  
-**Aula 10 - [16/05/2025](https://github.com/GameOverJY/SO-Sistemas-Operativos/blob/main/aula10.md)**  
+**Aula 9 - [09/05/2025](https://github.com/GameOverJY/SO-Sistemas-Operativos/blob/main/aula9.md)**[Falta]  
+**Aula 10 - [16/05/2025](https://github.com/GameOverJY/SO-Sistemas-Operativos/blob/main/aula10.md)**[Falta]  
 **Aula 11 - [23/05/2025](https://github.com/GameOverJY/SO-Sistemas-Operativos/blob/main/aula11.md)**  
 
 #### 📅 **Junho**  
-**Aula 12 - [04/06/2025](https://github.com/GameOverJY/SO-Sistemas-Operativos/blob/main/aula12.md)**  
+**Aula 12 - [04/06/2025](https://github.com/GameOverJY/SO-Sistemas-Operativos/blob/main/aula12.md)**[Falta]  
+**Aula 13 - [13/06/2025](https://github.com/GameOverJY/SO-Sistemas-Operativos/blob/main/aula12.md)**[Falta]  
+**Aula 14 - [17/06/2025](https://github.com/GameOverJY/SO-Sistemas-Operativos/blob/main/aula12.md)**[Falta]  
+**Aula 15 - [18/06/2025](https://github.com/GameOverJY/SO-Sistemas-Operativos/blob/main/aula12.md)**[Falta]
+
