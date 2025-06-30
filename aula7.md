@@ -17,9 +17,3 @@ Este módulo abrange os fundamentos da instalação, configuração e utilizaç�
 - Configuração inicial de rede, utilizadores e permissões.
 - Instalação de software adicional (ex: `vim`, `git`, `curl`).
 - Ajustes pós-instalação e personalização do ambiente.
-
-### Exemplos de comandos iniciais:
-
-```bash
-sudo apt update && sudo apt upgrade   # Para sistemas baseados em Debian
-sudo dnf update                       # Para sistemas Fedora/RHEL/CentOS
