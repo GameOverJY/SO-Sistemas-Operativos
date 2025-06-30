@@ -45,8 +45,8 @@ Essa disciplina é essencial para compreender como os computadores funcionam int
 
 #### 📅 **Maio**  
 **Aula 8 - [02/05/2025](https://github.com/GameOverJY/SO-Sistemas-Operativos/blob/main/aula8.md)**  
-**Aula 9 - [09/05/2025](https://github.com/GameOverJY/SO-Sistemas-Operativos/blob/main/aula9.md)**[Falta]  
-**Aula 10 - [16/05/2025](https://github.com/GameOverJY/SO-Sistemas-Operativos/blob/main/aula10.md)**[Falta]  
+**Aula 9 - [09/05/2025](https://github.com/GameOverJY/SO-Sistemas-Operativos/blob/main/aula9.md)**  
+**Aula 10 - [16/05/2025](https://github.com/GameOverJY/SO-Sistemas-Operativos/blob/main/aula10.md)**  
 **Aula 11 - [23/05/2025](https://github.com/GameOverJY/SO-Sistemas-Operativos/blob/main/aula11.md)**  
 
 #### 📅 **Junho**  
