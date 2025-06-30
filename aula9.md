@@ -1,102 +1,105 @@
 # Resumo da aula - 09/05/2025
-# Tarefas Práticas - Administração de Sistemas
-
-## Objetivo
-
-Rever, aplicar e consolidar os conteúdos abordados na disciplina, através da execução de tarefas práticas com foco em:
-
-- Comandos para gestão da máquina;
-- Comandos para gestão de utilizadores;
-- Configuração do ambiente de trabalho em linha de comandos.
 
 ---
 
-## 1. Comandos para Gestão da Máquina
+# Tarefas Práticas — Administração de Sistemas Linux
 
-### 1.1. Verificar informações do sistema
+## 🎯 Objetivo
+
+Consolidar os conhecimentos adquiridos na disciplina através da realização de tarefas práticas focadas em:
+
+- 📁 Gestão da máquina;
+- 👤 Gestão de utilizadores;
+- ⚙️ Configuração do ambiente de trabalho via linha de comandos.
+
+---
+
+## 🖥️ 1. Gestão da Máquina
+
+### 🔍 1.1 Verificação de informações do sistema
 
 ```bash
-uname -a         # Informações gerais do sistema
-hostname         # Nome do host
-uptime           # Tempo de atividade do sistema
-top              # Processos ativos e uso de CPU/memória
-df -h            # Espaço em disco
-free -h          # Uso da memória RAM
+uname -a         # Exibe informações completas sobre o sistema
+hostname         # Mostra o nome do host da máquina
+uptime           # Indica há quanto tempo o sistema está ativo
+top              # Exibe os processos em tempo real
+df -h            # Mostra o uso de espaço em disco (formato legível)
+free -h          # Mostra a utilização da memória (RAM e swap)
 ```
 
-### 1.2. Gestão de pacotes (Debian/Ubuntu)
+### 📦 1.2 Gestão de pacotes (Distribuições Debian/Ubuntu)
 
 ```bash
-sudo apt update                 # Atualiza a lista de pacotes
+sudo apt update                 # Atualiza a lista de pacotes disponíveis
 sudo apt upgrade                # Atualiza os pacotes instalados
-sudo apt install <pacote>       # Instala um pacote
-sudo apt remove <pacote>        # Remove um pacote
+sudo apt install <pacote>       # Instala um novo pacote
+sudo apt remove <pacote>        # Remove um pacote instalado
 ```
 
-### 1.3. Gestão de processos e serviços
+### ⚙️ 1.3 Gestão de processos e serviços
 
 ```bash
-ps aux                         # Lista todos os processos ativos
-kill <PID>                     # Termina um processo pelo PID
-sudo systemctl status          # Verifica o estado dos serviços
-sudo systemctl restart <serviço>  # Reinicia um serviço específico
+ps aux                         # Lista todos os processos em execução
+kill <PID>                     # Encerra um processo específico
+sudo systemctl status          # Mostra o estado geral dos serviços
+sudo systemctl restart <serviço>  # Reinicia um serviço (ex: apache2)
 ```
 
 ---
 
-## 2. Comandos para Gestão de Utilizadores
+## 👥 2. Gestão de Utilizadores e Grupos
 
-### 2.1. Gestão de utilizadores
+### ➕ 2.1 Criação e remoção de utilizadores
 
 ```bash
-sudo adduser <nome_utilizador>      # Adiciona um novo utilizador
-sudo deluser <nome_utilizador>      # Remove um utilizador existente
+sudo adduser <utilizador>       # Cria um novo utilizador
+sudo deluser <utilizador>       # Remove um utilizador existente
 ```
 
-### 2.2. Gestão de grupos
+### 👥 2.2 Gestão de grupos
 
 ```bash
-sudo groupadd <nome_grupo>          # Cria um novo grupo
-sudo usermod -aG <grupo> <utilizador>  # Adiciona um utilizador a um grupo
-groups <utilizador>                 # Lista os grupos de um utilizador
+sudo groupadd <grupo>                # Cria um novo grupo
+sudo usermod -aG <grupo> <utilizador>  # Adiciona o utilizador a um grupo
+groups <utilizador>                  # Lista os grupos de um utilizador
 ```
 
-### 2.3. Permissões de ficheiros
+### 🔐 2.3 Permissões e propriedade de ficheiros
 
 ```bash
-chmod 755 <ficheiro>               # Altera permissões do ficheiro
-chown user:grupo <ficheiro>        # Altera dono e grupo de um ficheiro
-ls -l                              # Lista ficheiros com permissões
+chmod 755 <ficheiro>                  # Define permissões para o ficheiro
+chown utilizador:grupo <ficheiro>     # Altera o dono e grupo do ficheiro
+ls -l                                 # Lista ficheiros com detalhes de permissões
 ```
 
 ---
 
-## 3. Configuração do Ambiente em Linha de Comandos
+## 🛠️ 3. Configuração do Ambiente de Trabalho em Linha de Comandos
 
-### 3.1. Edição de ficheiros de configuração
+### 📝 3.1 Personalização do bash
 
 ```bash
-nano ~/.bashrc            # Editar ficheiro de configuração do bash
-source ~/.bashrc          # Recarregar o ficheiro após alterações
+nano ~/.bashrc              # Edita o ficheiro de configuração do bash
+source ~/.bashrc            # Aplica as alterações feitas
 ```
 
-### 3.2. Alias e personalização
+### 🔁 3.2 Criação de alias úteis
 
 ```bash
 alias atualizar='sudo apt update && sudo apt upgrade'
-alias cls='clear'
+alias limpar='clear'
 ```
 
-### 3.3. Ver variáveis de ambiente
+### 🌐 3.3 Variáveis de ambiente
 
 ```bash
-echo $HOME
-echo $PATH
-printenv
+echo $HOME                  # Mostra o diretório pessoal
+echo $PATH                  # Lista os caminhos de execução configurados
+printenv                    # Exibe todas as variáveis de ambiente
 ```
 
 ---
 
-## Conclusão
+## ✅ Conclusão
 
-A prática constante com comandos de linha permite o domínio da administração básica de sistemas, essencial para ambientes profissionais e académicos.
+A familiarização com a linha de comandos é essencial para qualquer administrador de sistemas. Estas tarefas práticas reforçam os conhecimentos teóricos e preparam o aluno para resolver situações reais em ambientes Linux.
